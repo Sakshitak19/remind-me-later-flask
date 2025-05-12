@@ -23,7 +23,7 @@ Accepts a JSON payload and stores the reminder in the database.
   "time": "14:30",  
   "message": "Test reminder",  
   "method": "email"  
-}
+}```
 
 ## Example Success Response:
 
