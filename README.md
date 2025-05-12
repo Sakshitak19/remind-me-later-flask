@@ -31,7 +31,7 @@ Accepts a JSON payload and stores the reminder in the database.
   "message": "Reminder saved successfully"  
 }  
 
-## How to Run Locally
+ How to Run Locally
 
 ### Clone this repository:
 git clone https://github.com/your-username/remind-me-later-flask.git
